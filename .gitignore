@@ -244,3 +244,5 @@ TSWLatexianTemp*
 # Skip Alvise's stuff
 
 /AV/
+# and huge mp4's
+*.mp4
